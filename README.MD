@@ -48,6 +48,18 @@ body, .usertext {
   }
 }
 
+Citas
+=====
 > Esta es una cita
+
+Lineas de división
+=====
+
+---
+Espacio de texto
+
+***
+
+
 
         
